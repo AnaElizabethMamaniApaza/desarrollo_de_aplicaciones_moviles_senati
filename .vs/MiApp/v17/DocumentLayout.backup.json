@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|c:\\users\\hp 14\\downloads\\miapp\\miapp\\miapp\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|c:\\users\\hp 14\\downloads\\miapp\\miapp\\miapp\\controllers\\departemento_ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\controllers\\departemento_ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|c:\\users\\hp 14\\downloads\\miapp\\miapp\\miapp\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|c:\\users\\hp 14\\downloads\\miapp\\miapp\\miapp\\controllers\\bolsacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\controllers\\bolsacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|c:\\users\\hp 14\\downloads\\miapp\\miapp\\miapp\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|c:\\users\\hp 14\\downloads\\miapp\\miapp\\miapp\\data\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\data\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|c:\\users\\hp 14\\downloads\\miapp\\miapp\\miapp\\models\\bolsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\models\\bolsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|c:\\users\\hp 14\\downloads\\miapp\\miapp\\miapp\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|c:\\users\\hp 14\\downloads\\miapp\\miapp\\miapp\\views\\bolsaeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\views\\bolsaeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|c:\\users\\hp 14\\downloads\\miapp\\miapp\\miapp\\views\\categoriaeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\views\\categoriaeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|c:\\users\\hp 14\\downloads\\miapp\\miapp\\miapp\\views\\categoriaeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\views\\categoriaeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|c:\\users\\hp 14\\downloads\\miapp\\miapp\\miapp\\views\\bolsalistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\views\\bolsalistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|c:\\users\\hp 14\\downloads\\miapp\\miapp\\miapp\\views\\bolsaeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\views\\bolsaeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|c:\\users\\hp 14\\downloads\\miapp\\miapp\\miapp\\views\\bolsalistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\views\\bolsalistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|c:\\users\\hp 14\\downloads\\miapp\\miapp\\miapp\\views\\productolistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\views\\productolistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|c:\\users\\hp 14\\downloads\\miapp\\miapp\\miapp\\views\\productoeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7A9095-DCAB-4F06-BD92-7EE7C777E48F}|MiApp\\MiApp.csproj|solutionrelative:miapp\\views\\productoeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "MiApp\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "MiApp\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:30:28.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Departemento_ventasController.cs",
+              "DocumentMoniker": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Controllers\\Departemento_ventasController.cs",
+              "RelativeDocumentMoniker": "MiApp\\Controllers\\Departemento_ventasController.cs",
+              "ToolTip": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Controllers\\Departemento_ventasController.cs",
+              "RelativeToolTip": "MiApp\\Controllers\\Departemento_ventasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:30:27.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "MiApp\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "MiApp\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:30:24.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BolsaController.cs",
+              "DocumentMoniker": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Controllers\\BolsaController.cs",
+              "RelativeDocumentMoniker": "MiApp\\Controllers\\BolsaController.cs",
+              "ToolTip": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Controllers\\BolsaController.cs",
+              "RelativeToolTip": "MiApp\\Controllers\\BolsaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:30:21.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "MiApp\\Data\\Database.cs",
+              "ToolTip": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Data\\Database.cs",
+              "RelativeToolTip": "MiApp\\Data\\Database.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:43:05.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseDatos.cs",
+              "DocumentMoniker": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Data\\BaseDatos.cs",
+              "RelativeDocumentMoniker": "MiApp\\Data\\BaseDatos.cs",
+              "ToolTip": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Data\\BaseDatos.cs",
+              "RelativeToolTip": "MiApp\\Data\\BaseDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:43:04.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bolsa.cs",
+              "DocumentMoniker": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Models\\Bolsa.cs",
+              "RelativeDocumentMoniker": "MiApp\\Models\\Bolsa.cs",
+              "ToolTip": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Models\\Bolsa.cs",
+              "RelativeToolTip": "MiApp\\Models\\Bolsa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:42:13.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "MiApp\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Models\\Categoria.cs",
+              "RelativeToolTip": "MiApp\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:42:12.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriaEditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Views\\CategoriaEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiApp\\Views\\CategoriaEditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Views\\CategoriaEditPage.xaml.cs",
+              "RelativeToolTip": "MiApp\\Views\\CategoriaEditPage.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:36:04.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriaEditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Views\\CategoriaEditPage.xaml",
+              "RelativeDocumentMoniker": "MiApp\\Views\\CategoriaEditPage.xaml",
+              "ToolTip": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Views\\CategoriaEditPage.xaml",
+              "RelativeToolTip": "MiApp\\Views\\CategoriaEditPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T19:36:01.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BolsaEditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Views\\BolsaEditPage.xaml",
+              "RelativeDocumentMoniker": "MiApp\\Views\\BolsaEditPage.xaml",
+              "ToolTip": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Views\\BolsaEditPage.xaml",
+              "RelativeToolTip": "MiApp\\Views\\BolsaEditPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T19:35:45.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BolsaEditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Views\\BolsaEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiApp\\Views\\BolsaEditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Views\\BolsaEditPage.xaml.cs",
+              "RelativeToolTip": "MiApp\\Views\\BolsaEditPage.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:35:44.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BolsaListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Views\\BolsaListPage.xaml",
+              "RelativeDocumentMoniker": "MiApp\\Views\\BolsaListPage.xaml",
+              "ToolTip": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Views\\BolsaListPage.xaml",
+              "RelativeToolTip": "MiApp\\Views\\BolsaListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T19:34:28.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BolsaListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Views\\BolsaListPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiApp\\Views\\BolsaListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Views\\BolsaListPage.xaml.cs",
+              "RelativeToolTip": "MiApp\\Views\\BolsaListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:35:37.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductoListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Views\\ProductoListPage.xaml",
+              "RelativeDocumentMoniker": "MiApp\\Views\\ProductoListPage.xaml",
+              "ToolTip": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Views\\ProductoListPage.xaml",
+              "RelativeToolTip": "MiApp\\Views\\ProductoListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T19:34:27.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductoEditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Views\\ProductoEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiApp\\Views\\ProductoEditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\HP 14\\Downloads\\MiApp\\MiApp\\MiApp\\Views\\ProductoEditPage.xaml.cs",
+              "RelativeToolTip": "MiApp\\Views\\ProductoEditPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:34:25.148Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
